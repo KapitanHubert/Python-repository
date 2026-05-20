@@ -12,11 +12,11 @@ I’m currently learning programming through practical projects and sharing my p
 
 # 🚀 About Me
 
-- 💻 Learning software development by building projects
-- 🧠 Interested in Python, AI tools and automation
-- 📚 Focused on practical learning and continuous improvement
-- 🌱 Currently improving my Git & GitHub workflow
-- 🔨 Building projects step by step
+- Learning software development by building projects
+- Interested in Python, AI tools and automation
+- Focused on practical learning and continuous improvement
+- Currently improving my Git & GitHub workflow
+- Building projects step by step
 
 ---
 
@@ -35,15 +35,16 @@ I’m currently learning programming through practical projects and sharing my p
 # 📂 Projects
 
 ## Beginner Projects
-- 🧠 Python Quiz App
-- 🧮 Calculator App *(coming soon)*
-- 🔐 Password Generator *(coming soon)*
+- [Python Quiz App](./BasicProjects/quiz-python-app.py)
+- [Calculator App](./BasicProjects/calculator.py)
+- [Password Generator](./BasicProjects/random_password_generator.py)
+- [Website Downloader](./BasicProjects/html%20downloader/main.py)
 
 ## Future Projects
-- 🌦️ Weather App
-- 🤖 AI Chatbot
-- 📁 File Organizer
-- ✅ Todo App
+- Weather App
+- AI Chatbot
+- File Organizer
+- Todo App
 
 ---
 
@@ -60,5 +61,5 @@ I’m currently learning programming through practical projects and sharing my p
 # 📫 Contact
 
 - GitHub: https://github.com/KapitanHubert
-- LinkedIn: https://www.linkedin.com
->>>>>>> 66b9fc2 (Added first Project named quiz-python-app and README file)
+- LinkedIn: https://www.linkedin.com/in/hubert-kapiatn-265654357/
+
