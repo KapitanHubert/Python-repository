@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python-repository
 Collection of my projects coded in Python
 =======
@@ -35,10 +34,11 @@ I’m currently learning programming through practical projects and sharing my p
 # 📂 Projects
 
 ## Beginner Projects
-- [Python Quiz App](./BasicProjects/quiz-python-app.py)
-- [Calculator App](./BasicProjects/calculator.py)
-- [Password Generator](./BasicProjects/random_password_generator.py)
-- [Website Downloader](./BasicProjects/html%20downloader/main.py)
+- [Python Quiz App](./BasicProjects/quiz-python-app/)
+- [Calculator App](./BasicProjects/calculator/)
+- [Password Generator](./BasicProjects/random-password-generator/)
+- [Website Downloader](./BasicProjects/html%20downloader/)
+- [Website Checker](./BasicProjects/website%20checker/)
 
 ## Future Projects
 - Weather App
