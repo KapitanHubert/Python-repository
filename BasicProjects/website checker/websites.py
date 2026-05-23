@@ -40,4 +40,8 @@ class Websites:
         fh = open("report.txt", "w")
 
         for el in self.reportList:
-            fh.write(str(el["website"]) + " - " + str(el) )
+            print(el)
+            fh.write(str(el["website"]) + " - " + str(el) + "\n")
+
+        fh.close()
+        print("Report saved")
