@@ -39,6 +39,7 @@ I’m currently learning programming through practical projects and sharing my p
 - [Password Generator](./BasicProjects/random-password-generator/)
 - [Website Downloader](./BasicProjects/html%20downloader/)
 - [Website Checker](./BasicProjects/website%20checker/)
+- [Snake Game](./BasicProjects/snake)
 
 ## Future Projects
 - Weather App
